@@ -6,6 +6,8 @@ import datetime as dtm
 import calendar as cal
 from tablulate import tabulate
 
+# This is placeholder text to implement an edit in a new commit for this file
+
 pd.set_option("max_columns", None)
 
 def list_select(qstn, lst):
